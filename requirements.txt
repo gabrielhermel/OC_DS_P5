@@ -3,6 +3,7 @@ emot==3.1
 matplotlib==3.6.0
 numpy==1.23.4
 pandas==1.5.1
+pandas-profiling==3.6.2
 pyarrow==10.0.1
 seaborn==0.12.1
 scikit-learn==1.1.3
